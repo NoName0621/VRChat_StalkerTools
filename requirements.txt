@@ -1,0 +1,4 @@
+requests==2.32.3
+vrchatapi @ git+https://github.com/vrchatapi/vrchatapi-python.git@3786470e0867f4fba6e71ce9b07dfd40167eb8f4
+python-dotenv==1.1.0
+ttkbootstrap==1.13.8
