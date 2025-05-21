@@ -14,7 +14,7 @@ Twitter: No name (@622877)
     `pip install -r requirements.txt` or `pip3 install -r requirements.txt`<br/>
         or if you fancy to have your dependency installed with root permission<br/>
     `sudo pip install -r requirements.txt` or `sudo pip3 install -r requirements.txt`<br/>
-- There is **TARGET_USER_ID=** **DISCORD_WEBHOOK_URL=** in the **.env**, please change it<br/>
+- `TARGET_USER_ID=` `DISCORD_WEBHOOK_URL=`　in **#.env**, please change it, and change `#.env` to `.env` it<br/>
 - Get the cookie with `python cookie-get.py` , enter **VRChatName** and **Password** and get it. And **Cookie.txt**, **never** give it to anyone else. **They will hijack your account**.
 - Now all you need to do is open `Stoker.py` and you can monitor anyone you like!
 
